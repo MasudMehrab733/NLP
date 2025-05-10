@@ -17,9 +17,14 @@ Here we go with step-by-step through the common operations:
 2. Lowercasing
 3. Removing Punctuations
 4. Removing StopWrods
-5. Stemming
-6. Lemmatizing
-7. POS tagging
-8. NER (Named ENtity Recognition)
-9. Regex (Regular Expression)
+5. Remove HTML tags
+6. Remove URL's
+7. Handling ChatWords
+8. Spelling Correction
+9. Handling Emojis🙂
+10. Stemming
+11. Lemmatizing
+12. POS tagging
+13. NER (Named ENtity Recognition)
+14. Regex (Regular Expression)
 
